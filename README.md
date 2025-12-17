@@ -1,4 +1,4 @@
-# My Store - User Management
+# Crud - User Management
 
 Aplicación frontend para gestión de usuarios consumiendo JSONPlaceholder API.
 
